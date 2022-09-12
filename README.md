@@ -1,38 +1,3 @@
-Piff
-#0351
-
-FlowStay — 09/08/2022
-anyones thing changed to android university. cant find the prework now
-Kimia (TF) — 09/08/2022
-There are some changes has been made.  We'll explain more in the class.
-Just go under Android University.  You might find pre-work info there
-Pedro Pacheco — 09/08/2022
-Today or Tuesday?
-Kimia (TF) — 09/08/2022
-today
-for people who are not showing up today.  I will send an announcement about the changes later today
-Zoe Coughlan — 09/08/2022
-i had to dig in my search history bc the prework link disappeared for me too
-https://courses.codepath.org/snippets/and102/prework
-^that's the instructions page
-Mohamed Rachid — 09/08/2022
-so class is optional today ? I've already done the pre-work
-Kush(TF) — 09/08/2022
-Yeah the class is optional today
-Mohamed Rachid — 09/08/2022
-okay, thank you
-N0tJordan — 09/08/2022
-How long does it usually take for them to respond to your application
-I applied Tuesday
-Mohamed Rachid — 09/08/2022
-took a few days for me, but i applied before classes started
-Kimia (TF) — 09/08/2022
-Link for the pre work
-https://www.youtube.com/playlist?list=PLrT2tZ9JRrf66CxLXpMcX5HTvb5gIYG4D
-YouTube
-Android University: ToDo App
-Image
-ReadMe File
 # SimpleToDoKotlinVersion
 
 # Project 1 - SimpleToDo
